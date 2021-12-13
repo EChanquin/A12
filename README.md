@@ -1,2 +1,2 @@
-# A12
-EndlessRunnerGame
+# A12EndlessRunnerGame
+EndlessRunner
